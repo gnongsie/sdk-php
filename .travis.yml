@@ -4,6 +4,8 @@ sudo: false
 
 env:
     - TEST_SUITE=samples
+    
+dist: trusty
 
 php:
     - 5.6
